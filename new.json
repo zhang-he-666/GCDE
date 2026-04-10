@@ -1,0 +1,1426 @@
+{
+  "video_file": "DJI_20240302204048_0022_D.MP4",  
+  "scene_info": {
+    "人物": "儿童4",                  
+    "动作类型": "大肌肉功能测试",           
+    "测试环境": "室内，测试场地"        
+  },
+  
+  "action_sequence": [
+    {
+      "time_range": "00:00:00 - 00:01:16",          
+      "action_description": "测试员引导男孩从隧道爬出，进入小木椅坐下，并与男孩互动，通过对话和动作示范，如站起来、走动、蹲下等，初步评估其基础动作能力和对指令的反应。",
+      "details": {
+        "position": "爬出隧道，坐在小木椅上",
+        "action": "站立、走动、蹲下等基础动作",
+        "movement_type": "静止与动态交替",
+        "force_control": "无爆发力",
+        "equipment": "无"
+      }
+    },
+    {
+      "time_range": "00:01:16 - 00:02:39",
+      "action_description": "测试员继续引导男孩完成站立和简单的肢体动作，如举起手、放下手等，通过互动和示范加深对他的影响，并利用白板等辅助工具增强沟通效果。",
+      "details": {
+        "position": "站立，举起手、放下手",
+        "action": "站立、手臂动作",
+        "movement_type": "动态",
+        "force_control": "无爆发力",
+        "equipment": "白板"
+      }
+    },
+    {
+      "time_range": "00:02:39 - 00:04:48",
+      "action_description": "测试员重点训练男孩的腿部力量和控制力，指导他完成左右脚交替抬膝的动作；随后，通过举手、伸展手臂等手臂动作的模仿练习，评估其上肢运动功能。",
+      "details": {
+        "position": "站立，抬膝、举手、伸展手臂",
+        "action": "抬膝、举手、伸展手臂",
+        "movement_type": "动态",
+        "force_control": "有一定爆发力",
+        "equipment": "无"
+      }
+    },
+    {
+      "time_range": "00:04:48 - 00:09:54",
+      "action_description": "另一位男性加入，协助测试员用彩色积木搭建障碍物，男孩需从障碍物下钻过并进行平衡及行走练习。测试员全程提供口头引导和保护，全面评估其大肌肉群的综合表现。",
+      "details": {
+        "position": "从障碍物下钻过，进行站立平衡和行走练习",
+        "action": "钻过障碍物，站立平衡，行走",
+        "movement_type": "动态",
+        "force_control": "无爆发力",
+        "equipment": "彩色积木"
+      }
+    }
+  ],
+  
+  "additional_info": {
+    "test_administrator": "测试员1",         
+    "environment": "测试场地，背景音乐较小",  
+    "feedback": "动作流畅，准备阶段清晰"    
+  }
+}
+{
+  "video_file": "DJI_20240302205055_0023_D.MP4",  
+  "scene_info": {
+    "人物": "儿童4",                  
+    "动作类型": "大肌肉功能测试",           
+    "测试环境": "室内，测试场地"        
+  },
+  
+  "action_sequence": [
+    {
+      "time_range": "00:00:01 - 00:00:58",
+      "action_description": "测试员引导小朋友进行“车高”练习，他帮助小朋友从粉色软箱上逐步向上跳跃，锻炼其腿部力量和跳跃能力。",
+      "details": {
+        "position": "从粉色软箱跳跃",
+        "action": "跳跃，增强腿部力量",
+        "movement_type": "动态",
+        "force_control": "有爆发力",
+        "equipment": "粉色软箱"
+      }
+    },
+    {
+      "time_range": "00:00:58 - 00:02:04",
+      "action_description": "测试员和工作人员协力铺设垫子，随后引导小朋友从垫子上跳到软箱上，进行基础的跳跃能力测试。",
+      "details": {
+        "position": "站立，从垫子跳到软箱",
+        "action": "跳跃，测试跳跃能力",
+        "movement_type": "动态",
+        "force_control": "有爆发力",
+        "equipment": "垫子、软箱"
+      }
+    },
+    {
+      "time_range": "00:02:04 - 00:03:06",
+      "action_description": "使用交通锥、软箱和横杆等道具设置障碍赛道，测试员引导小朋友在赛道上进行绕桩行走和连续侧向跳跃，综合考察其运动协调性。",
+      "details": {
+        "position": "绕桩行走，侧向跳跃",
+        "action": "绕桩行走，侧向跳跃",
+        "movement_type": "动态",
+        "force_control": "协调性与爆发力",
+        "equipment": "交通锥、软箱、横杆"
+      }
+    },
+    {
+      "time_range": "00:03:06 - 00:04:27",
+      "action_description": "测试员与小朋友玩“抬脚跳”游戏，通过抬起一只脚来增加跳跃高度，旨在提升小朋友的协调性、平衡感和爆发力。",
+      "details": {
+        "position": "抬脚跳，增加跳跃高度",
+        "action": "抬脚跳，提升协调性和爆发力",
+        "movement_type": "动态",
+        "force_control": "有爆发力",
+        "equipment": "无"
+      }
+    },
+    {
+      "time_range": "00:04:27 - 00:06:41",
+      "action_description": "测试员与小朋友进行运球比赛，要求小朋友将球运过指定锥形路线，评估其在动态下的运动控制能力、专注力和执行能力。",
+      "details": {
+        "position": "运球，移动穿越锥形路线",
+        "action": "运球，测试运动控制",
+        "movement_type": "动态",
+        "force_control": "专注力与运动控制",
+        "equipment": "绿色大球"
+      }
+    }
+  ],
+  
+  "additional_info": {
+    "test_administrator": "测试员1",         
+    "environment": "测试场地，背景音乐较小",  
+    "feedback": "动作流畅，协调性强，执行力好"    
+  }
+}
+[
+    {
+      "video_file": "DJI_20240302211818_0025_D.MP4",
+      "scene_info": {
+        "人物": "儿童5",
+        "动作类型": "大肌肉运动能力测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:00 - 00:01:08",
+          "action_description": "小男孩尝试钻过彩色隧道玩具，但因隧道内较暗未能成功。",
+          "details": {
+            "position": "站立，靠近隧道入口",
+            "action": "尝试钻过隧道",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "彩色隧道玩具"
+          }
+        },
+        {
+          "time_range": "00:01:08 - 00:02:37",
+          "action_description": "戴眼镜的小男孩在成年男性测试员指导下，依次完成弯腰捡球、站起、坐下等动作。",
+          "details": {
+            "position": "坐姿，弯腰捡球",
+            "action": "捡球并站起，进行一系列坐立动作",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "球"
+          }
+        },
+        {
+          "time_range": "00:02:37 - 00:03:50",
+          "action_description": "两个男孩进行合作抬腿游戏，交替背负彼此并保持平衡。",
+          "details": {
+            "position": "一男孩背另一个男孩，交替抬腿",
+            "action": "背负并交替抬腿",
+            "movement_type": "动态",
+            "force_control": "爆发力与控制结合",
+            "equipment": "无"
+          }
+        },
+        {
+          "time_range": "00:03:50 - 00:04:59",
+          "action_description": "第一个男孩背起测试员，进行跳跃并展示核心力量。",
+          "details": {
+            "position": "背起测试员，跳跃行走",
+            "action": "背起并跳跃",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "无"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，背景音乐较小",
+        "feedback": "动作流畅，准备阶段清晰"
+      }
+    },
+    {
+      "video_file": "DJI_20240302213213_0027_D.MP4",
+      "scene_info": {
+        "人物": "儿童5",
+        "动作类型": "自闭症儿童场景转换能力测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:00 - 00:00:48",
+          "action_description": "测试员引导小朋友从站立到俯卧，并进行爬行测试。",
+          "details": {
+            "position": "站立、趴下、侧卧、俯卧",
+            "action": "根据指令完成地面动作",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "无"
+          }
+        },
+        {
+          "time_range": "00:00:48 - 00:01:57",
+          "action_description": "测试员布置新的测试场地，设置锥形路标和标线。",
+          "details": {
+            "position": "站立，准备布置场地",
+            "action": "布置场地，为跳跃测试做准备",
+            "movement_type": "静止",
+            "force_control": "无",
+            "equipment": "锥形路标，黄色带黑条纹线"
+          }
+        },
+        {
+          "time_range": "00:01:57 - 00:03:06",
+          "action_description": "测试员激励小朋友跳过障碍物，并观察跳跃表现。",
+          "details": {
+            "position": "站立，跳过障碍物",
+            "action": "跳跃并评估跳跃能力",
+            "movement_type": "动态",
+            "force_control": "控制跳跃高度",
+            "equipment": "障碍物"
+          }
+        },
+        {
+          "time_range": "00:03:06 - 00:04:23",
+          "action_description": "在女性协助下，小朋友完成连续跳跃并成功。",
+          "details": {
+            "position": "站立，跳跃",
+            "action": "连续跳跃",
+            "movement_type": "动态",
+            "force_control": "爆发力与控制结合",
+            "equipment": "无"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，背景安静",
+        "feedback": "互动与正向强化有效，跳跃动作流畅"
+      }
+    }
+  ]
+  以下是按您要求格式整理的两个视频内容：
+
+  ```json
+  [
+    {
+      "video_file": "DJI_20240302234212_0030_D.MP4",
+      "scene_info": {
+        "人物": "儿童6",
+        "动作类型": "大肌肉功能测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:00 - 00:01:12",
+          "action_description": "测试员引导小朋友钻入彩色隧道捡球，然后返回指定位置，主要考察其核心力量和运动控制能力。",
+          "details": {
+            "position": "站立，靠近隧道入口",
+            "action": "钻入隧道，捡球，返回",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "彩色隧道，球"
+          }
+        },
+        {
+          "time_range": "00:01:12 - 00:03:08",
+          "action_description": "小朋友根据指令在椅子上坐立、行走五步再返回，测试员在一旁计数，主要考察其身体姿态维持和短期记忆能力。",
+          "details": {
+            "position": "坐在椅子上",
+            "action": "坐下、站起、行走五步并返回",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "椅子"
+          }
+        },
+        {
+          "time_range": "00:03:08 - 00:04:16",
+          "action_description": "小朋友在椅子上坐好，然后站起来，双手举过头顶，测试员在一旁计数，主要考察其上肢力量和伸展能力。",
+          "details": {
+            "position": "坐在椅子上，双手举过头顶",
+            "action": "站起来并举手",
+            "movement_type": "动态",
+            "force_control": "爆发力",
+            "equipment": "椅子"
+          }
+        },
+        {
+          "time_range": "00:04:16 - 00:05:17",
+          "action_description": "小朋友重复“坐-站”的动作，但增加了“转圈”的指令，测试员在一旁计数，主要考察其动态平衡能力和对复杂指令的反应速度。",
+          "details": {
+            "position": "坐在椅子上，站起并转圈",
+            "action": "坐下、站起并转圈",
+            "movement_type": "动态",
+            "force_control": "爆发力与控制结合",
+            "equipment": "椅子"
+          }
+        },
+        {
+          "time_range": "00:05:17 - 00:06:09",
+          "action_description": "小朋友站在原地，听从指令举起右脚，再抬起左脚，测试员在一旁计数，主要考察其腿部肌肉的控制力和躯干稳定性。",
+          "details": {
+            "position": "站立",
+            "action": "抬腿",
+            "movement_type": "动态",
+            "force_control": "控制力",
+            "equipment": "无"
+          }
+        },
+        {
+          "time_range": "00:06:09 - 00:07:20",
+          "action_description": "小朋友从墙边走过来，拿起地上的球，测试员在一旁计数，主要考察其移动、抓取和目标定位能力。",
+          "details": {
+            "position": "站立，走向球",
+            "action": "走过来捡球",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "球"
+          }
+        },
+        {
+          "time_range": "00:07:20 - 00:09:18",
+          "action_description": "小朋友与测试员合作，用积木搭建高塔，并在塔上放置玩具锤子，主要考察其协作、手眼协调和任务执行能力。",
+          "details": {
+            "position": "坐着，搭建积木",
+            "action": "搭建高塔并放置锤子",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "积木，玩具锤子"
+          }
+        },
+        {
+          "time_range": "00:09:18 - 00:11:17",
+          "action_description": "小朋友将锤子从塔顶扔下，再扔向远处障碍物，测试员在一旁计数，主要考察其投掷动作。",
+          "details": {
+            "position": "站立",
+            "action": "投掷锤子",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "玩具锤子"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，背景音乐较小",
+        "feedback": "动作流畅，表现优秀"
+      }
+    },
+    {
+      "video_file": "DJI_20240302235649_0031_D.MP4",
+      "scene_info": {
+        "人物": "儿童6",
+        "动作类型": "跨越障碍测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:00 - 00:01:08",
+          "action_description": "测试员（男）和小朋友进行基础的跨越标记线测试。女老师在一旁指导，并宣布这是第一组测试。",
+          "details": {
+            "position": "站立，跨越标记线",
+            "action": "跳过标记点",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "标记点"
+          }
+        },
+        {
+          "time_range": "00:01:08 - 00:03:14",
+          "action_description": "场景切换，女老师引入彩色锥形桶作为障碍物。小朋友尝试跳过锥形桶未果后，女老师逐步增加难度，先是在锥形桶前放置软垫箱，再引导小朋友跳上垫箱后跳过锥形桶，最后小朋友独立完成了这一系列组合动作。",
+          "details": {
+            "position": "站立，跳过障碍物",
+            "action": "跳过锥形桶并跳上垫箱",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "锥形桶，软垫箱"
+          }
+        },
+        {
+          "time_range": "00:03:14 - 00:05:17",
+          "action_description": "女老师继续使用白色泡沫板作为障碍物，要求小朋友跳上泡沫板再跳过标记线。小朋友在几次尝试后，成功完成了从下往上逐个跳过两个高度不同的障碍物的任务。",
+          "details": {
+            "position": "站立，跳上泡沫板",
+            "action": "跳上泡沫板并跳过障碍",
+            "movement_type": "动态",
+            "force_control": "爆发力与控制结合",
+            "equipment": "泡沫板"
+          }
+        },
+        {
+          "time_range": "00:05:17 - 00:07:32",
+          "action_description": "女老师引入蓝色塑料凳子作为辅助道具，要求小朋友跳上凳子再跳过障碍物。小朋友在女老师的鼓励和帮助下，成功地完成了跳上凳子再跳过的组合动作。",
+          "details": {
+            "position": "站立，跳上凳子",
+            "action": "跳上凳子并跳过障碍",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "塑料凳子"
+          }
+        },
+        {
+          "time_range": "00:07:32 - 00:11:04",
+          "action_description": "女老师回归基础，只使用锥形桶作为障碍物，与男老师一起手牵手，引导小朋友反复练习跳过障碍物的动作。期间穿插了轻松愉快的互动，最终完成了所有测试项目。",
+          "details": {
+            "position": "站立，跨越障碍物",
+            "action": "跳过锥形桶",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "锥形桶"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，背景较轻松",
+        "feedback": "任务完成流畅，互动愉快"
+      }
+    }
+  ]
+  [
+    {
+      "video_file": "DJI_20240302234212_0030_D.MP4",
+      "scene_info": {
+        "人物": "儿童6",
+        "动作类型": "大肌肉功能测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:00 - 00:01:12",
+          "action_description": "测试员引导小朋友钻入彩色隧道捡球，然后返回指定位置，主要考察其核心力量和运动控制能力。",
+          "details": {
+            "position": "站立，靠近隧道入口",
+            "action": "钻入隧道，捡球，返回",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "彩色隧道，球"
+          }
+        },
+        {
+          "time_range": "00:01:12 - 00:03:08",
+          "action_description": "小朋友根据指令在椅子上坐立、行走五步再返回，测试员在一旁计数，主要考察其身体姿态维持和短期记忆能力。",
+          "details": {
+            "position": "坐在椅子上",
+            "action": "坐下、站起、行走五步并返回",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "椅子"
+          }
+        },
+        {
+          "time_range": "00:03:08 - 00:04:16",
+          "action_description": "小朋友在椅子上坐好，然后站起来，双手举过头顶，测试员在一旁计数，主要考察其上肢力量和伸展能力。",
+          "details": {
+            "position": "坐在椅子上，双手举过头顶",
+            "action": "站起来并举手",
+            "movement_type": "动态",
+            "force_control": "爆发力",
+            "equipment": "椅子"
+          }
+        },
+        {
+          "time_range": "00:04:16 - 00:05:17",
+          "action_description": "小朋友重复“坐-站”的动作，但增加了“转圈”的指令，测试员在一旁计数，主要考察其动态平衡能力和对复杂指令的反应速度。",
+          "details": {
+            "position": "坐在椅子上，站起并转圈",
+            "action": "坐下、站起并转圈",
+            "movement_type": "动态",
+            "force_control": "爆发力与控制结合",
+            "equipment": "椅子"
+          }
+        },
+        {
+          "time_range": "00:05:17 - 00:06:09",
+          "action_description": "小朋友站在原地，听从指令举起右脚，再抬起左脚，测试员在一旁计数，主要考察其腿部肌肉的控制力和躯干稳定性。",
+          "details": {
+            "position": "站立",
+            "action": "抬腿",
+            "movement_type": "动态",
+            "force_control": "控制力",
+            "equipment": "无"
+          }
+        },
+        {
+          "time_range": "00:06:09 - 00:07:20",
+          "action_description": "小朋友从墙边走过来，拿起地上的球，测试员在一旁计数，主要考察其移动、抓取和目标定位能力。",
+          "details": {
+            "position": "站立，走向球",
+            "action": "走过来捡球",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "球"
+          }
+        },
+        {
+          "time_range": "00:07:20 - 00:09:18",
+          "action_description": "小朋友与测试员合作，用积木搭建高塔，并在塔上放置玩具锤子，主要考察其协作、手眼协调和任务执行能力。",
+          "details": {
+            "position": "坐着，搭建积木",
+            "action": "搭建高塔并放置锤子",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "积木，玩具锤子"
+          }
+        },
+        {
+          "time_range": "00:09:18 - 00:11:17",
+          "action_description": "小朋友将锤子从塔顶扔下，再扔向远处障碍物，测试员在一旁计数，主要考察其投掷动作。",
+          "details": {
+            "position": "站立",
+            "action": "投掷锤子",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "玩具锤子"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，背景音乐较小",
+        "feedback": "动作流畅，表现优秀"
+      }
+    },
+    {
+      "video_file": "DJI_20240302235649_0031_D.MP4",
+      "scene_info": {
+        "人物": "儿童6",
+        "动作类型": "跨越障碍测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:00 - 00:01:08",
+          "action_description": "测试员（男）和小朋友进行基础的跨越标记线测试。女老师在一旁指导，并宣布这是第一组测试。",
+          "details": {
+            "position": "站立，跨越标记线",
+            "action": "跳过标记点",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "标记点"
+          }
+        },
+        {
+          "time_range": "00:01:08 - 00:03:14",
+          "action_description": "场景切换，女老师引入彩色锥形桶作为障碍物。小朋友尝试跳过锥形桶未果后，女老师逐步增加难度，先是在锥形桶前放置软垫箱，再引导小朋友跳上垫箱后跳过锥形桶，最后小朋友独立完成了这一系列组合动作。",
+          "details": {
+            "position": "站立，跳过障碍物",
+            "action": "跳过锥形桶并跳上垫箱",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "锥形桶，软垫箱"
+          }
+        },
+        {
+          "time_range": "00:03:14 - 00:05:17",
+          "action_description": "女老师继续使用白色泡沫板作为障碍物，要求小朋友跳上泡沫板再跳过标记线。小朋友在几次尝试后，成功完成了从下往上逐个跳过两个高度不同的障碍物的任务。",
+          "details": {
+            "position": "站立，跳上泡沫板",
+            "action": "跳上泡沫板并跳过障碍",
+            "movement_type": "动态",
+            "force_control": "爆发力与控制结合",
+            "equipment": "泡沫板"
+          }
+        },
+        {
+          "time_range": "00:05:17 - 00:07:32",
+          "action_description": "女老师引入蓝色塑料凳子作为辅助道具，要求小朋友跳上凳子再跳过障碍物。小朋友在女老师的鼓励和帮助下，成功地完成了跳上凳子再跳过的组合动作。",
+          "details": {
+            "position": "站立，跳上凳子",
+            "action": "跳上凳子并跳过障碍",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "塑料凳子"
+          }
+        },
+        {
+          "time_range": "00:07:32 - 00:11:04",
+          "action_description": "女老师回归基础，只使用锥形桶作为障碍物，与男老师一起手牵手，引导小朋友反复练习跳过障碍物的动作。期间穿插了轻松愉快的互动，最终完成了所有测试项目。",
+          "details": {
+            "position": "站立，跨越障碍物",
+            "action": "跳过锥形桶",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "锥形桶"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，背景较轻松",
+        "feedback": "任务完成流畅，互动愉快"
+      }
+    }
+  ]
+  以下是按您要求格式整理的三个视频内容：
+
+  ```json
+  [
+    {
+      "video_file": "DJI_20240303005219_0034_D.MP4",
+      "scene_info": {
+        "人物": "儿童7",
+        "动作类型": "自闭症儿童完整动作测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:00 - 00:00:45",
+          "action_description": "女老师引导小朋友与一个大型隧道玩具互动，测试其钻行能力。",
+          "details": {
+            "position": "站在隧道旁，尝试钻入隧道",
+            "action": "钻入隧道",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "大型隧道玩具"
+          }
+        },
+        {
+          "time_range": "00:00:45 - 00:02:43",
+          "action_description": "男老师和女老师使用小木椅作为辅助工具进行一系列动作测试，包括坐下、站起、捡拾积木等。",
+          "details": {
+            "position": "坐在椅子上，捡起地上的积木",
+            "action": "坐下、站起、捡拾积木",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "小木椅，积木"
+          }
+        },
+        {
+          "time_range": "00:02:43 - 00:04:46",
+          "action_description": "男老师指导小朋友完成深蹲、抬腿、举手等身体姿态控制练习，评估其核心力量和身体控制能力。",
+          "details": {
+            "position": "站立，深蹲，抬腿，举手",
+            "action": "身体姿态控制，核心力量测试",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "无"
+          }
+        },
+        {
+          "time_range": "00:04:46 - 00:05:18",
+          "action_description": "男老师引导小朋友将绿色球交给另一位男老师，测试其社交协作能力和物品传递能力。",
+          "details": {
+            "position": "站立，拿起绿色球",
+            "action": "物品传递",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "绿色球"
+          }
+        },
+        {
+          "time_range": "00:05:18 - 00:07:31",
+          "action_description": "男老师、女老师与小朋友一同行走，考察其运动模式、步态控制和社交互动能力。",
+          "details": {
+            "position": "站立，行走",
+            "action": "行走测试",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "无"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，背景较安静",
+        "feedback": "小朋友表现良好，社交互动积极"
+      }
+    },
+    {
+      "video_file": "DJI_20240303010035_0036_D.MP4",
+      "scene_info": {
+        "人物": "儿童7",
+        "动作类型": "大肌肉基础操作能力测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:06 - 00:00:38",
+          "action_description": "测试员示范并引导小朋友跨越地上的红色标记线和蓝色塑料箱，锻炼其平衡能力。",
+          "details": {
+            "position": "站立，跨越障碍物",
+            "action": "跨越标记线和箱子",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "红色标记线，蓝色塑料箱"
+          }
+        },
+        {
+          "time_range": "00:00:38 - 00:01:47",
+          "action_description": "使用锥形路标和横杆组成的障碍物进行训练，小朋友从不同角度跑过、跳跃并跨越障碍。",
+          "details": {
+            "position": "站立，跨越障碍物",
+            "action": "跑步跨越障碍物",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "锥形路标，横杆"
+          }
+        },
+        {
+          "time_range": "00:01:47 - 00:02:53",
+          "action_description": "使用彩色积木搭建的金字塔作为障碍物，小朋友从不同方向跑过并跳跃。",
+          "details": {
+            "position": "站立，跨越积木塔",
+            "action": "跳跃，跨越障碍物",
+            "movement_type": "动态",
+            "force_control": "爆发力",
+            "equipment": "彩色积木"
+          }
+        },
+        {
+          "time_range": "00:02:53 - 00:03:30",
+          "action_description": "引导小朋友沿着地面上的线跑动，考察其线条追踪能力和运动控制。",
+          "details": {
+            "position": "沿着线跑动",
+            "action": "追踪直线跑动",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "绿色锥形路标，红色路标"
+          }
+        },
+        {
+          "time_range": "00:03:30 - 00:04:29",
+          "action_description": "使用三个彩色泡沫块叠成的小台阶，引导小朋友练习上下台阶。",
+          "details": {
+            "position": "站立，上下台阶",
+            "action": "上下台阶练习",
+            "movement_type": "动态",
+            "force_control": "控制力",
+            "equipment": "彩色泡沫块"
+          }
+        },
+        {
+          "time_range": "00:04:29 - 00:05:26",
+          "action_description": "继续用三个彩色泡沫块进行跳跃练习，锻炼小朋友的平衡和跳跃能力。",
+          "details": {
+            "position": "站立，跳跃",
+            "action": "跳跃练习",
+            "movement_type": "动态",
+            "force_control": "爆发力与控制结合",
+            "equipment": "彩色泡沫块"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，环境安静",
+        "feedback": "动作连贯，跳跃能力良好"
+      }
+    },
+    {
+      "video_file": "DJI_20240303194449_0039_D.MP4",
+      "scene_info": {
+        "人物": "儿童8",
+        "动作类型": "大肌肉功能测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:13 - 00:00:42",
+          "action_description": "小男孩在老师的引导下，从一端爬入彩色充气隧道并成功爬出，测试运动能力和空间探索能力。",
+          "details": {
+            "position": "爬入充气隧道",
+            "action": "钻隧道",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "充气隧道"
+          }
+        },
+        {
+          "time_range": "00:00:54 - 00:01:37",
+          "action_description": "小男孩在老师帮助下完成“坐-站”测试，锻炼核心力量和身体控制能力。",
+          "details": {
+            "position": "坐在小凳子上",
+            "action": "坐下、站起",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "小凳子"
+          }
+        },
+        {
+          "time_range": "00:01:48 - 00:02:06",
+          "action_description": "小男孩进行原地踏步走练习，双脚交替向前移动，考察平衡能力。",
+          "details": {
+            "position": "站立，原地踏步",
+            "action": "踏步走",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "无"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，背景安静",
+        "feedback": "小朋友积极参与，动作流畅"
+      }
+    }
+  ]
+  [
+    {
+      "video_file": "DJI_20240303005219_0034_D.MP4",
+      "scene_info": {
+        "人物": "儿童7",
+        "动作类型": "自闭症儿童完整动作测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:00 - 00:00:45",
+          "action_description": "女老师引导小朋友与一个大型隧道玩具互动，测试其钻行能力。",
+          "details": {
+            "position": "站在隧道旁，尝试钻入隧道",
+            "action": "钻入隧道",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "大型隧道玩具"
+          }
+        },
+        {
+          "time_range": "00:00:45 - 00:02:43",
+          "action_description": "男老师和女老师使用小木椅作为辅助工具进行一系列动作测试，包括坐下、站起、捡拾积木等。",
+          "details": {
+            "position": "坐在椅子上，捡起地上的积木",
+            "action": "坐下、站起、捡拾积木",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "小木椅，积木"
+          }
+        },
+        {
+          "time_range": "00:02:43 - 00:04:46",
+          "action_description": "男老师指导小朋友完成深蹲、抬腿、举手等身体姿态控制练习，评估其核心力量和身体控制能力。",
+          "details": {
+            "position": "站立，深蹲，抬腿，举手",
+            "action": "身体姿态控制，核心力量测试",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "无"
+          }
+        },
+        {
+          "time_range": "00:04:46 - 00:05:18",
+          "action_description": "男老师引导小朋友将绿色球交给另一位男老师，测试其社交协作能力和物品传递能力。",
+          "details": {
+            "position": "站立，拿起绿色球",
+            "action": "物品传递",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "绿色球"
+          }
+        },
+        {
+          "time_range": "00:05:18 - 00:07:31",
+          "action_description": "男老师、女老师与小朋友一同行走，考察其运动模式、步态控制和社交互动能力。",
+          "details": {
+            "position": "站立，行走",
+            "action": "行走测试",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "无"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，背景较安静",
+        "feedback": "小朋友表现良好，社交互动积极"
+      }
+    },
+    {
+      "video_file": "DJI_20240303010035_0036_D.MP4",
+      "scene_info": {
+        "人物": "儿童7",
+        "动作类型": "大肌肉基础操作能力测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:06 - 00:00:38",
+          "action_description": "测试员示范并引导小朋友跨越地上的红色标记线和蓝色塑料箱，锻炼其平衡能力。",
+          "details": {
+            "position": "站立，跨越障碍物",
+            "action": "跨越标记线和箱子",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "红色标记线，蓝色塑料箱"
+          }
+        },
+        {
+          "time_range": "00:00:38 - 00:01:47",
+          "action_description": "使用锥形路标和横杆组成的障碍物进行训练，小朋友从不同角度跑过、跳跃并跨越障碍。",
+          "details": {
+            "position": "站立，跨越障碍物",
+            "action": "跑步跨越障碍物",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "锥形路标，横杆"
+          }
+        },
+        {
+          "time_range": "00:01:47 - 00:02:53",
+          "action_description": "使用彩色积木搭建的金字塔作为障碍物，小朋友从不同方向跑过并跳跃。",
+          "details": {
+            "position": "站立，跨越积木塔",
+            "action": "跳跃，跨越障碍物",
+            "movement_type": "动态",
+            "force_control": "爆发力",
+            "equipment": "彩色积木"
+          }
+        },
+        {
+          "time_range": "00:02:53 - 00:03:30",
+          "action_description": "引导小朋友沿着地面上的线跑动，考察其线条追踪能力和运动控制。",
+          "details": {
+            "position": "沿着线跑动",
+            "action": "追踪直线跑动",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "绿色锥形路标，红色路标"
+          }
+        },
+        {
+          "time_range": "00:03:30 - 00:04:29",
+          "action_description": "使用三个彩色泡沫块叠成的小台阶，引导小朋友练习上下台阶。",
+          "details": {
+            "position": "站立，上下台阶",
+            "action": "上下台阶练习",
+            "movement_type": "动态",
+            "force_control": "控制力",
+            "equipment": "彩色泡沫块"
+          }
+        },
+        {
+          "time_range": "00:04:29 - 00:05:26",
+          "action_description": "继续用三个彩色泡沫块进行跳跃练习，锻炼小朋友的平衡和跳跃能力。",
+          "details": {
+            "position": "站立，跳跃",
+            "action": "跳跃练习",
+            "movement_type": "动态",
+            "force_control": "爆发力与控制结合",
+            "equipment": "彩色泡沫块"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，环境安静",
+        "feedback": "动作连贯，跳跃能力良好"
+      }
+    },
+    {
+      "video_file": "DJI_20240303194449_0039_D.MP4",
+      "scene_info": {
+        "人物": "儿童8",
+        "动作类型": "大肌肉功能测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:13 - 00:00:42",
+          "action_description": "小男孩在老师的引导下，从一端爬入彩色充气隧道并成功爬出，测试运动能力和空间探索能力。",
+          "details": {
+            "position": "爬入充气隧道",
+            "action": "钻隧道",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "充气隧道"
+          }
+        },
+        {
+          "time_range": "00:00:54 - 00:01:37",
+          "action_description": "小男孩在老师帮助下完成“坐-站”测试，锻炼核心力量和身体控制能力。",
+          "details": {
+            "position": "坐在小凳子上",
+            "action": "坐下、站起",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "小凳子"
+          }
+        },
+        {
+          "time_range": "00:01:48 - 00:02:06",
+          "action_description": "小男孩进行原地踏步走练习，双脚交替向前移动，考察平衡能力。",
+          "details": {
+            "position": "站立，原地踏步",
+            "action": "踏步走",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "无"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，背景安静",
+        "feedback": "小朋友积极参与，动作流畅"
+      }
+    }
+  ]
+  [
+    {
+      "video_file": "DJI_20240303195458_0040_D.MP4",
+      "scene_info": {
+        "人物": "儿童8",
+        "动作类型": "大肌肉群测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:00 - 00:00:53",
+          "action_description": "测试员首先示范了原地踏步、踏圈等基础动作，并使用彩色积木作为障碍物，让小朋友从上面跳下，以评估其跳跃稳定性和力量。",
+          "details": {
+            "position": "站立，使用彩色积木作为障碍物",
+            "action": "从上面跳下",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "彩色积木"
+          }
+        },
+        {
+          "time_range": "00:00:53 - 00:01:48",
+          "action_description": "测试员利用一排白色泡沫垫作为障碍，要求小朋友从垫子上跳到垫后，再跳回垫上，以此来测试小朋友的连续跳跃能力和对障碍物的反应。",
+          "details": {
+            "position": "站立，跳跃过泡沫垫",
+            "action": "跳跃过障碍物",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "白色泡沫垫"
+          }
+        },
+        {
+          "time_range": "00:01:48 - 00:02:39",
+          "action_description": "测试员使用彩色锥形路标设置障碍，要求小朋友从一端跳到另一端，再跳回起点，主要考察小朋友的横向移动能力和身体控制能力。",
+          "details": {
+            "position": "站立，横向跳跃",
+            "action": "跳跃跨越障碍物",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "彩色锥形路标"
+          }
+        },
+        {
+          "time_range": "00:02:39 - 00:03:17",
+          "action_description": "测试员与小朋友合作完成双脚跳过两个障碍物之间空隙的挑战，通过互动游戏，锻炼小朋友的双脚跳跃能力和身体协调性。",
+          "details": {
+            "position": "站立，双脚跳跃",
+            "action": "双脚跳过障碍物",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "无"
+          }
+        },
+        {
+          "time_range": "00:03:17 - 00:04:17",
+          "action_description": "测试员再次使用泡沫垫作为障碍，要求小朋友从一端跳到另一端，以检验其长距离跳跃能力。",
+          "details": {
+            "position": "站立，长距离跳跃",
+            "action": "长距离跳跃",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "泡沫垫"
+          }
+        },
+        {
+          "time_range": "00:04:17 - 00:05:04",
+          "action_description": "测试员与小朋友玩了一个追逐游戏，要求小朋友跑向指定位置，旨在考察小朋友的运动轨迹、时序理解和反应速度。",
+          "details": {
+            "position": "奔跑，追逐",
+            "action": "追逐游戏",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "无"
+          }
+        },
+        {
+          "time_range": "00:05:04 - 00:05:55",
+          "action_description": "测试员与小朋友玩推球游戏，要求小朋友蹲下用手推动球，以评估小朋友的核心力量、身体姿态控制和动作执行能力。",
+          "details": {
+            "position": "蹲下，推球",
+            "action": "推球",
+            "movement_type": "动态",
+            "force_control": "有控制力",
+            "equipment": "球"
+          }
+        },
+        {
+          "time_range": "00:05:55 - 00:08:43",
+          "action_description": "测试员指导小朋友完成单手抓取水杯的动作，以考察其精细动作和手眼协调能力。",
+          "details": {
+            "position": "站立，单手抓取",
+            "action": "单手抓取水杯",
+            "movement_type": "静止",
+            "force_control": "无爆发力",
+            "equipment": "水杯"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，背景音乐较小",
+        "feedback": "动作流畅，准备阶段清晰"
+      }
+    },
+    {
+      "video_file": "DJI_20240303201752_0043_D.MP4",
+      "scene_info": {
+        "人物": "儿童9",
+        "动作类型": "大肌肉群测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:07 - 00:00:36",
+          "action_description": "一名男老师和一名女老师引导小朋友从一个彩色的隧道玩具中爬入并钻出，以此测试其空间感和运动能力。",
+          "details": {
+            "position": "爬入并钻出隧道",
+            "action": "爬行，钻出隧道",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "彩色隧道"
+          }
+        },
+        {
+          "time_range": "00:00:48 - 00:01:35",
+          "action_description": "男老师利用一把小木椅作为障碍物，引导小朋友完成钻过、站起、绕开、放置物品等一系列连贯动作，测试其运动转换和精细动作能力。",
+          "details": {
+            "position": "通过椅子进行动作转换",
+            "action": "钻过，绕开，放置物品",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "小木椅"
+          }
+        },
+        {
+          "time_range": "00:01:59 - 00:03:20",
+          "action_description": "男老师手持一张纸片，通过发出数字指令，引导小朋友完成站立、抬腿、转身等基础动作，评估其反应速度和对指令的理解能力。",
+          "details": {
+            "position": "站立，抬腿，转身",
+            "action": "完成基础动作",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "纸片"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员2",
+        "environment": "测试场地，背景音乐较小",
+        "feedback": "动作灵活，能快速响应指令"
+      }
+    },
+]
+[
+    {
+      "video_file": "DJI_20240303203017_0044_D.MP4",
+      "scene_info": {
+        "人物": "儿童9",
+        "动作类型": "大肌肉群测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:00 - 00:02:35",a a
+          "action_description": "在此阶段，测试员通过引导小朋友从不同高度的泡沫台阶上进行上下跳跃，来评估其核心力量、运动控制和身体协调能力。小朋友在两位老师的轮流指导和保护下，逐步掌握了从低到高、再到独立的跳跃技巧。",
+          "details": {
+            "position": "站立，从泡沫台阶跳下",
+            "action": "从台阶跳下，独立跳跃",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "泡沫台阶"
+          }
+        },
+        {
+          "time_range": "00:02:35 - 00:04:36",
+          "action_description": "场景切换至垫子上，重点考察小朋友的平衡能力和动态稳定性。测试员通过让小朋友在垫子上完成单脚站立、抬膝、深蹲等动作，以及在软质雪球上进行跳跃和跨越障碍物的练习，来检验其全身肌肉的控制力、身体姿态维持能力及对复杂体能挑战的反应能力。",
+          "details": {
+            "position": "站立，单脚站立，抬膝，深蹲，跳跃",
+            "action": "平衡和跳跃练习",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "垫子，雪球"
+          }
+        },
+        {
+          "time_range": "00:04:36 - 00:07:34",
+          "action_description": "此部分主要进行的是爆发力和同步性的训练。小朋友在垫子上进行了多次原地跳跃和助跑后的跳跃练习，以增强其腿部肌肉的力量。最后，测试员加入，与小朋友进行双人同步跳跃，不仅增加了趣味性，更直观地评估了小朋友的运动表现、节奏感和与他人协作的能力。",
+          "details": {
+            "position": "站立，原地跳跃，助跑后跳跃，双人同步跳跃",
+            "action": "跳跃练习",
+            "movement_type": "动态",
+            "force_control": "有爆发力",
+            "equipment": "垫子"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员1",
+        "environment": "测试场地，音响背景轻柔",
+        "feedback": "小朋友跳跃逐渐独立，动作控制良好"
+      }
+    },
+    {
+      "video_file": "DJI_20250709132229_0011_D.MP4",
+      "scene_info": {
+        "人物": "儿童6",
+        "动作类型": "大肌肉群测试",
+        "测试环境": "室内，测试场地"
+      },
+      "action_sequence": [
+        {
+          "time_range": "00:00:00 - 00:01:02",
+          "action_description": "测试员使用隧道玩具进行大肌肉群的运动测试，包括拖动、推倒和钻入等动作。",
+          "details": {
+            "position": "拖动并快速推倒隧道，女孩钻入并钻出",
+            "action": "钻入隧道，快速反应",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "彩色隧道"
+          }
+        },
+        {
+          "time_range": "00:01:02 - 00:02:49",
+          "action_description": "测试员使用小球作为道具，通过投掷和收回的方式，测试女孩的听觉理解、反应速度和社交配合能力。",
+          "details": {
+            "position": "坐在小椅子上，听声音投掷球",
+            "action": "投掷并收回小球",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "小球"
+          }
+        },
+        {
+          "time_range": "00:02:49 - 00:04:47",
+          "action_description": "测试员通过不同的方式与女孩互动，包括引导她走路、做动作等，以观察她在不同情境下的反应和配合度。",
+          "details": {
+            "position": "站立，引导走路和做动作",
+            "action": "完成动作，反应和配合",
+            "movement_type": "动态",
+            "force_control": "无爆发力",
+            "equipment": "无"
+          }
+        }
+      ],
+      "additional_info": {
+        "test_administrator": "测试员2",
+        "environment": "测试场地，音响背景较小",
+        "feedback": "女孩反应灵敏，社交配合良好"
+      }
+    }
+  ]
+  ```json
+  {
+    "video_file": "DJI_20250709143232_0016_D.MP4",
+    "scene_info": {
+      "人物": "儿童7",
+      "动作类型": "身体柔韧性与大肌肉群测试",
+      "测试环境": "室内，测试场地"
+    },
+    "action_sequence": [
+      {
+        "time_range": "00:00:00 - 00:00:43",
+        "action_description": "测试员和一名女士引导小朋友钻进彩色隧道玩具，评估其身体柔韧性和空间理解能力。",
+        "details": {
+          "position": "小朋友钻入彩色隧道玩具",
+          "action": "钻入隧道，测试身体柔韧性与空间感知",
+          "movement_type": "动态",
+          "force_control": "无爆发力",
+          "equipment": "彩色隧道玩具"
+        }
+      },
+      {
+        "time_range": "00:00:43 - 00:00:52",
+        "action_description": "小朋友从隧道中爬出，捡起地上的小球作为道具。",
+        "details": {
+          "position": "小朋友从隧道中爬出，弯腰捡起小球",
+          "action": "捡球，准备下一个动作",
+          "movement_type": "动态",
+          "force_control": "无爆发力",
+          "equipment": "小球"
+        }
+      },
+      {
+        "time_range": "00:00:52 - 00:01:28",
+        "action_description": "测试员让小朋友坐在小木凳上，测试其对指令的反应与配合度。",
+        "details": {
+          "position": "坐在小木凳上",
+          "action": "坐下、站起，测试反应速度与配合度",
+          "movement_type": "静止",
+          "force_control": "无爆发力",
+          "equipment": "小木凳"
+        }
+      },
+      {
+        "time_range": "00:01:28 - 00:02:37",
+        "action_description": "小朋友自行站起，捡起小球并放回地上，展示指令理解与执行能力。",
+        "details": {
+          "position": "站立，弯腰捡球",
+          "action": "捡球并放回，执行指令",
+          "movement_type": "动态",
+          "force_control": "无爆发力",
+          "equipment": "小球"
+        }
+      },
+      {
+        "time_range": "00:02:37 - 00:04:49",
+        "action_description": "测试员指导小朋友进行大肌肉群动作测试，包括原地踏步、左右抬腿、举手、踢腿等。",
+        "details": {
+          "position": "站立",
+          "action": "原地踏步、左右抬腿、举手、踢腿等动作",
+          "movement_type": "动态",
+          "force_control": "爆发力与控制结合",
+          "equipment": "无"
+        }
+      },
+      {
+        "time_range": "00:04:49 - 00:06:40",
+        "action_description": "测试员通过递送气球引导小朋友走过去拿取，并进行握手、击掌等互动游戏。",
+        "details": {
+          "position": "站立，走向气球",
+          "action": "拿取气球，进行握手、击掌等互动",
+          "movement_type": "动态",
+          "force_control": "无爆发力",
+          "equipment": "气球"
+        }
+      }
+    ],
+    "additional_info": {
+      "test_administrator": "测试员1",
+      "environment": "测试场地，背景音乐较小",
+      "feedback": "动作流畅，准备阶段清晰"
+    }
+  }
+{
+  "video_file": "DJI_20250709143232_0016_D.MP4",
+  "scene_info": {
+    "人物": "儿童7",
+    "动作类型": "身体柔韧性与大肌肉群测试",
+    "测试环境": "室内，测试场地"
+  },
+  "action_sequence": [
+    {
+      "time_range": "00:00:00 - 00:00:43",
+      "action_description": "测试员和一名女士引导小朋友钻进彩色隧道玩具，评估其身体柔韧性和空间理解能力。",
+      "details": {
+        "position": "小朋友钻入彩色隧道玩具",
+        "action": "钻入隧道，测试身体柔韧性与空间感知",
+        "movement_type": "动态",
+        "force_control": "无爆发力",
+        "equipment": "彩色隧道玩具"
+      }
+    },
+    {
+      "time_range": "00:00:43 - 00:00:52",
+      "action_description": "小朋友从隧道中爬出，捡起地上的小球作为道具。",
+      "details": {
+        "position": "小朋友从隧道中爬出，弯腰捡起小球",
+        "action": "捡球，准备下一个动作",
+        "movement_type": "动态",
+        "force_control": "无爆发力",
+        "equipment": "小球"
+      }
+    },
+    {
+      "time_range": "00:00:52 - 00:01:28",
+      "action_description": "测试员让小朋友坐在小木凳上，测试其对指令的反应与配合度。",
+      "details": {
+        "position": "坐在小木凳上",
+        "action": "坐下、站起，测试反应速度与配合度",
+        "movement_type": "静止",
+        "force_control": "无爆发力",
+        "equipment": "小木凳"
+      }
+    },
+    {
+      "time_range": "00:01:28 - 00:02:37",
+      "action_description": "小朋友自行站起，捡起小球并放回地上，展示指令理解与执行能力。",
+      "details": {
+        "position": "站立，弯腰捡球",
+        "action": "捡球并放回，执行指令",
+        "movement_type": "动态",
+        "force_control": "无爆发力",
+        "equipment": "小球"
+      }
+    },
+    {
+      "time_range": "00:02:37 - 00:04:49",
+      "action_description": "测试员指导小朋友进行大肌肉群动作测试，包括原地踏步、左右抬腿、举手、踢腿等。",
+      "details": {
+        "position": "站立",
+        "action": "原地踏步、左右抬腿、举手、踢腿等动作",
+        "movement_type": "动态",
+        "force_control": "爆发力与控制结合",
+        "equipment": "无"
+      }
+    },
+    {
+      "time_range": "00:04:49 - 00:06:40",
+      "action_description": "测试员通过递送气球引导小朋友走过去拿取，并进行握手、击掌等互动游戏。",
+      "details": {
+        "position": "站立，走向气球",
+        "action": "拿取气球，进行握手、击掌等互动",
+        "movement_type": "动态",
+        "force_control": "无爆发力",
+        "equipment": "气球"
+      }
+    }
+  ],
+  "additional_info": {
+    "test_administrator": "测试员1",
+    "environment": "测试场地，背景音乐较小",
+    "feedback": "动作流畅，准备阶段清晰"
+  }
+}
+    
