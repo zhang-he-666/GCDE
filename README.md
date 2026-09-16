@@ -1,4 +1,4 @@
-# GCDE: Understanding Group Cognition through Explainable Diffusion-Based Diagnosis Model
+# [ICDM 2026]GCDE: Understanding Group Cognition through Explainable Diffusion-Based Diagnosis Model
 
 This paper presents a graph diffusion-based collaborative diagnosis model for assessing students' knowledge states in the educational domain. The proposed approach further incorporates a streaming graph diffusion-based group cognitive diagnosis framework (GCDE), which models the natural propagation of knowledge across different hierarchical levels through a streaming knowledge diffusion mechanism.
 
