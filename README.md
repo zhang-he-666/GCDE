@@ -6,7 +6,8 @@ This paper presents a graph diffusion-based collaborative diagnosis model for as
 It formulates knowledge propagation as a continuous flow from individual students to intra-group interactions and further to inter-group dynamics, where a graph diffusion mechanism captures the natural transfer of knowledge across hierarchical levels. It further introduces a flow-aware attention mechanism that serves as a control module for knowledge propagation, which adaptively regulates both the intensity and direction of knowledge flow and thereby improves interpretability. To maintain coherence during propagation, the model imposes a flow consistency constraint that enforces alignment of knowledge representations across different levels and enhances overall performance. In addition, the graph diffusion process draws on the principles of diffusion models, where the iterative addition and removal of noise improves the model's capacity to capture complex distributions of knowledge states.
 
 ## Overview:
-n overview of the proposed GCDE framework. Comprising (i) Collaborative Knowledge Graph; (ii) Flow-Gated
+!(Figure/ICDM.png)
+An overview of the proposed GCDE framework. Comprising (i) Collaborative Knowledge Graph; (ii) Flow-Gated
 Diffusion; (iii) Graph Propagation and Multi-granularity Explanations.
 
 ## Quick Start
